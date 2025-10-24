@@ -1,2 +1,5 @@
 # ICC
-UFRPE ICC
+- calcular
+- mostrar valor
+- cadastrar
+##funcionais
